@@ -15,6 +15,4 @@ Open [`index.html`](index.html) in a web browser. No build tools or dependencies
 
 ## Screenshot
 
-GitHub does not run the HTML page inline. Capture the website, save the image in the repository root as `portfolio-preview.png`, and it will appear here:
-
 <img src="portfolio-preview.png" alt="Screenshot of the portfolio website" width="100%">
